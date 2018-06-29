@@ -64,3 +64,5 @@ The forces operating on the plane, in plane coordinates, are the following:
     float horStabInclination;
     /** inclination of the vertical stabelizer */
     float verStabInclination;
+## Key bindings
+You are able to change the inclination of the horizontal/vertical stabelizer using the ARROW keys
